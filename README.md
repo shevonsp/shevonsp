@@ -4,11 +4,6 @@
 
 
 
-
-<br>
-<img align="center" alt="JavaScript" src="https://shevon-sankalpa.com/x/4.jpg" />
-<br><br>
-
 - 💬 It all start with talk, **Drop me a line.**
 - 📫 reach me **mail@shevon-sankalpa.com**
 - SecureLine : **shevonsp@protonmail.com**
