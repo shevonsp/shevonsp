@@ -3,7 +3,7 @@
 <p align="center">I am a Sri Lankan based entrepreneur and software engineer<br>who specializes in building ( and occasionally designing ) exceptional digital experiences</p>
 
 
-<p align="center"><b>CEO</b> - Oho Eats (pvt) ltd | <b>Founder</b> - Campuslk.com<br><b>Shareholder</b> - ShoppyMe ltd | <b>Director</b> - Lanka.Health</p>
+
 
 <br>
 <img align="center" alt="JavaScript" src="https://shevon-sankalpa.com/x/4.jpg" />
